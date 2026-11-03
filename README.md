@@ -165,6 +165,13 @@ Se ajustó la dirección de conexión con el servidor para permitir el acceso de
 - El servidor debe permanecer activo y accesible para que la aplicación pueda consultar el inventario.
 - La dirección IP local utilizada durante las pruebas depende de la red donde se encuentre el computador.
 
+## Enlaces de instalación
+
+- **Versión 1.0.0 (Build 1):** [Instalar desde Firebase App Distribution](https://appdistribution.firebase.google.com/testerapps/1:927727331242:android:7a09e2005475a2f1c5edd3/releases/1nvq7pnl6tt68?utm_source=firebase-console)
+- **Versión 1.0.1 (Build 2):** Pendiente de agregar el enlace de distribución.
+
+Los enlaces están destinados a los verificadores autorizados en Firebase App Distribution.
+
 ## Autoría
 
 Proyecto académico de Ingeniería de Sistemas.
